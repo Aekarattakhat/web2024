@@ -1,0 +1,202 @@
+[
+    {
+        "title": "อุปกรณ์ใดที่ใช้ในการป้อนข้อมูลเข้าสู่คอมพิวเตอร์?",
+        "options": [
+            "จอภาพ",
+            "เมาส์",
+            "ลำโพง",
+            "เครื่องพิมพ์"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "หน่วยความจำที่ลบข้อมูลได้เมื่อปิดเครื่องคืออะไร?",
+        "options": [
+            "RAM",
+            "ROM",
+            "SSD",
+            "HDD"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "ซอฟต์แวร์ใดจัดอยู่ในประเภทระบบปฏิบัติการ?",
+        "options": [
+            "Microsoft Word",
+            "Google Chrome",
+            "Windows 10",
+            "Adobe Photoshop"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "หน่วยใดเป็นหน่วยวัดความเร็วของ CPU?",
+        "options": [
+            "กิโลไบต์ (KB)",
+            "กิกะเฮิรตซ์ (GHz)",
+            "กิกะไบต์ (GB)",
+            "เทราไบต์ (TB)"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "ภาษาโปรแกรมใดเป็นภาษาระดับสูง?",
+        "options": [
+            "Assembly",
+            "C++",
+            "Machine Code",
+            "Binary"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "อุปกรณ์จัดเก็บข้อมูลที่สามารถลบและเขียนใหม่ได้คืออะไร?",
+        "options": [
+            "CD-ROM",
+            "Flash Drive",
+            "DVD-R",
+            "Blu-ray Disc"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "อินเทอร์เน็ตมีจุดประสงค์หลักในช่วงเริ่มต้นเพื่อ?",
+        "options": [
+            "การเล่นเกม",
+            "การแชร์ไฟล์",
+            "การค้นคว้าข้อมูล",
+            "การเชื่อมโยงเครือข่ายขององค์กร"
+        ],
+        "answer": 4
+    },
+    {
+        "title": "ส่วนประกอบใดในคอมพิวเตอร์ที่ประมวลผลข้อมูล?",
+        "options": [
+            "CPU",
+            "RAM",
+            "Motherboard",
+            "Power Supply"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "อุปกรณ์ใดต่อไปนี้จัดอยู่ในประเภทอินพุตและเอาต์พุต?",
+        "options": [
+            "ลำโพง",
+            "จอภาพแบบสัมผัส",
+            "คีย์บอร์ด",
+            "แสกนเนอร์"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "อะไรคือลักษณะเด่นของ SSD เมื่อเทียบกับ HDD?",
+        "options": [
+            "ความจุเยอะกว่า",
+            "ทนทานกว่าน้ำ",
+            "ทำงานเร็วกว่า",
+            "ราคาถูกกว่า"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "ซอฟต์แวร์ใดเหมาะสำหรับจัดการงานนำเสนอ?",
+        "options": [
+            "Microsoft Excel",
+            "Microsoft Word",
+            "Microsoft PowerPoint",
+            "Adobe Photoshop"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "คำย่อ URL หมายถึงอะไร?",
+        "options": [
+            "User Real Login",
+            "Universal Resource Locator",
+            "Uniform Record Label",
+            "Universal Record Layout"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "ไฟล์ประเภทใดต่อไปนี้เหมาะสำหรับเก็บภาพถ่าย?",
+        "options": [
+            "PDF",
+            "JPG",
+            "MP3",
+            "TXT"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "หน่วยความจำถาวรในคอมพิวเตอร์เรียกว่าอะไร?",
+        "options": [
+            "RAM",
+            "Cache",
+            "ROM",
+            "Virtual Memory"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "หน่วยย่อยที่เล็กที่สุดของข้อมูลในคอมพิวเตอร์คืออะไร?",
+        "options": [
+            "Bit",
+            "Byte",
+            "Nibble",
+            "Word"
+        ],
+        "answer": 1
+    },
+    {
+        "title": "ซอฟต์แวร์ประเภทใดจัดเป็นโปรแกรมป้องกันไวรัส?",
+        "options": [
+            "Adobe Illustrator",
+            "Norton",
+            "Slack",
+            "Zoom"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "แผงวงจรหลักของคอมพิวเตอร์เรียกว่าอะไร?",
+        "options": [
+            "CPU",
+            "RAM",
+            "Motherboard",
+            "GPU"
+        ],
+        "answer": 3
+    },
+    {
+        "title": "เว็บเบราว์เซอร์ใดที่นิยมใช้ในปัจจุบัน?",
+        "options": [
+            "Microsoft Access",
+            "Mozilla Firefox",
+            "Notepad++",
+            "Eclipse"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "เทคโนโลยีที่ใช้สำหรับเครือข่ายไร้สายคืออะไร?",
+        "options": [
+            "Ethernet",
+            "Wi-Fi",
+            "Fiber Optic",
+            "ADSL"
+        ],
+        "answer": 2
+    },
+    {
+        "title": "โปรโตคอล TCP/IP เกี่ยวข้องกับอะไร?",
+        "options": [
+            "การเข้ารหัสข้อมูล",
+            "การส่งข้อมูลบนเครือข่าย",
+            "การบีบอัดข้อมูล",
+            "การสำรองข้อมูล"
+        ],
+        "answer": 2
+    }
+]
