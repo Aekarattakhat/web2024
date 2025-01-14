@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.2/dist/aframe-extras.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+        <a-entity gltf-model="barrel.glb" scale="0.5 0.5 0.5" position="1.20165 -0.1 -4.19736" rotation="90 8 -10" 
+                animation="property: position; to: 1.20165 -0.35136 -4.19736;dir: alternate; dur: 1000; easing: linear; loop: true" ></a-entity>
+        <a-entity gltf-model="boat.glb" scale="0.005 0.005 0.005" position="0 -0.45 -4.41752"
+                animation="property: position; to:0 -0.3 -4.41752;dir: alternate;loop: true"></a-entity>
+        
+        <a-entity text="align: center; width:8;value:Aekarattakhat Sueplaongio 653380030-3 ;" wrap-count="80" position="0 1ss -4.41752"s></a-entity>
+        <a-ocean width="200" depth="200" density="80" opacity="1" position="0 -0.4 0"></a-ocean>
+        <a-sky color="#408cc7" position="0 -200 0"></a-sky>
+
+    </a-scene>
+  </body>
+</html>
