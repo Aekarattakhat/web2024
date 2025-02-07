@@ -104,7 +104,7 @@
                 var res = await fetch("quiz.json");
                 this.setState({qlist: await res.json()});
            } 
-        
+
             render() {
                 var p = <Menu app={this}/>
                 if(this.state.status == 1){
